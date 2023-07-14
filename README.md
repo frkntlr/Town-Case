@@ -3,7 +3,6 @@
 [<img src="https://img.youtube.com/vi/j8Nf4z01M_I/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/j8Nf4z01M_I)
 
-<video width="630" height="300" src="https://github-production-user-asset-6210df.s3.amazonaws.com/14142761/253594908-142439b9-8e26-4ead-86f3-4a261044a0cb.mp4"></video>
 https://github.com/frkntlr/Town-Case/assets/14142761/142439b9-8e26-4ead-86f3-4a261044a0cb
 ## İmages
 ![1](https://github.com/frkntlr/Town-Case/assets/14142761/85081103-53ff-4104-88e8-6ab0b58dbaa5)
